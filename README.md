@@ -1,10 +1,10 @@
 # Icyshell 🛠️ with 🧊
 a new shell for experiments.
-> [!WARN]
+> [!WARNING]
 > you should not use this shell because of it is not useful and good quality.
 ## How to use
 If you want to use this shell, you have to build from source.  
-> [!HINT]
+ [!TIP]
 > If you want to set some settings, you have to make `~/.icyshrc`.
 ## Settings
 ### start_with/st
@@ -14,7 +14,7 @@ start_with = '''
 some messages!!
 '''
 ```
-> [!WARN]
+> [!WARNING]
 > you cannot remove the space. If you remove them, the shell happen errors.
 ### comments
 If you want to add some comments, you have to add `//` on beginning of line.
@@ -48,7 +48,7 @@ do you think that you want to retain the command output? `var` can retain **a** 
 var =
 code = command1
 ```
-> [!WARN]
+> [!WARNING]
 > If you weren't able to retain multiple outputs, it's correct.
 > The var cannot retain multiple outputs.
 ### prefix
