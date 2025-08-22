@@ -1,3 +1,8 @@
+# Rewritten from Scratch!
+This project is planned to be written from scratch.  
+- can use some commands by using [shaved-tools](https://github.com/sharpedmimishee/shaved-tools).  
+- new `.icyshrc` Syntax
+
 # Icyshell 🛠️ with 🧊
 a new shell for experiments.
 > [!WARNING]
