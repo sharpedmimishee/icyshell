@@ -1,6 +1,6 @@
 # Rewritten from Scratch!
 This project is planned to be written from scratch.  
-- can use some commands by using [shaved-tools](https://github.com/sharpedmimishee/shaved-tools).  
+- can use some commands by using [shaved-tools](https://github.com/sharpedmimishee/shavedtools).  
 - new `.icyshrc` Syntax
 
 # Icyshell 🛠️ with 🧊
